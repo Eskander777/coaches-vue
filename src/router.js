@@ -2,8 +2,8 @@ import { createRouter, createWebHistory } from "vue-router";
 
 import CoachesPage from "./pages/coaches/CoachesPage.vue";
 import CoachPage from "./pages/coaches/CoachPage.vue";
-import ContactPage from "./pages/coaches/ContactPage.vue";
-import RegisterPage from "./pages/requests/RegisterPage.vue";
+import ContactPage from "@/pages/requests/ContactPage.vue";
+import RegisterPage from "@/pages/coaches/RegisterPage.vue";
 import RequestsPage from "./pages/requests/RequestsPage.vue";
 import NotFoundPage from "./pages/NotFoundPage.vue";
 
